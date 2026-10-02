@@ -4,7 +4,7 @@ public:
         int n = haystack.length();
         int p = needle.length();
 
-        for(int i=0;i<n;i++){
+        for(int i=0;i<=n-p;i++){
             if(haystack.substr(i,p) == needle){
                 return i;
             }
