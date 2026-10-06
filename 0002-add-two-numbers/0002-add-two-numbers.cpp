@@ -11,6 +11,14 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        if(!l1 && !l2)
+        return NULL;
+
+        if(!l1)
+        return l2;
+        else if(!l2)
+        return l1;
+        
         ListNode* temp = new ListNode(0);
         ListNode* head = temp;
 
