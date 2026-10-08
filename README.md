@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0035-search-insert-position) |
+| [0739-daily-temperatures](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
