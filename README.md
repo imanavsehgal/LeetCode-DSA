@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -145,4 +146,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
