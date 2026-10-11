@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
