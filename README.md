@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0219-contains-duplicate-ii](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [0643-maximum-average-subarray-i](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
@@ -179,4 +180,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
