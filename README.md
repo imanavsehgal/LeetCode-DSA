@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0219-contains-duplicate-ii](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0739-daily-temperatures) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0069-sqrtx) |
+| [0287-find-the-duplicate-number](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
