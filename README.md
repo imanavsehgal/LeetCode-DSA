@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0739-daily-temperatures) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [0287-find-the-duplicate-number](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0148-sort-list) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Merge Sort
 |  |
 | ------- |
