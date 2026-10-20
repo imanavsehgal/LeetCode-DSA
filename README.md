@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
