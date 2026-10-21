@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
 | ------- |
