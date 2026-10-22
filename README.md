@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0692-top-k-frequent-words](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0739-daily-temperatures) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0567-permutation-in-string) |
+| [0692-top-k-frequent-words](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0567-permutation-in-string](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0692-top-k-frequent-words](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 | [0856-score-of-parentheses](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Merge Sort
 |  |
@@ -235,17 +239,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0347-top-k-frequent-elements) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/imanavsehgal/LeetCode-DSA/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
